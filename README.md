@@ -4,6 +4,7 @@ Nesse contexto será focado em Infraestrutura e Virtualização
 
 ## Tópicos
 - Infraestrutura tradicional
+
   Componentes:
   - Hardware
   - Software

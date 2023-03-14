@@ -1,6 +1,6 @@
 # infrastructure-studies-i
 Repositório dedicado ao estudo de Infraestrutura Informática.
-Nesse contexto será focado em Infraestrutura e Virtualização 
+Nesse contexto será focado Infraestrutura e Virtualização 
 
 ## Tópicos
 - Infraestrutura tradicional

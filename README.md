@@ -4,6 +4,7 @@
 #### Autenticação
 ##### Secret Zero Problem
 [The Secret Zero Problem](https://developer.cyberark.com/blog/secret-zero-eliminating-the-ultimate-secret/#:~:text=The%20Secret%20Zero%20Problem,master%20key%20that%20unlocks%20everything.)
+
 No que consiste o problema: Dado um conjunto de senhas e segredos, estes estão protegidos por uma única senha.
 Um exemplo disso é o conjunto de senhas estar armazenado num arquivo de texto, e o acesso a esse arquivo se dá por uma única senha.
 
